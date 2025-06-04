@@ -1,6 +1,6 @@
 ```cpp
 int main (){
-  std::cout<<"syj 好帅“<<endl;
+  std::cout<<"Hello World"<<endl;
   return 0;
 }
 ```
